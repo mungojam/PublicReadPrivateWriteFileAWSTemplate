@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{22325025-CDA3-4736-83CB-2D32D2FCC215}") = "PublicReadPrivateWriteFileAWSTemplate", "PublicReadPrivateWriteFileAWSTemplate.cfproj", "{99999999-9999-9999-9999-999999999999}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9DB5EDE4-9F38-4B65-BE02-16662452E3DC}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
